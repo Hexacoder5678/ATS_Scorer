@@ -1,8 +1,9 @@
-<img width="584" height="470" alt="Screenshot 2026-06-12 134914" src="https://github.com/user-attachments/assets/194b6e20-3fab-4410-88b0-b5c9c50ce80b" />
-<img width="1126" height="585" alt="Screenshot 2026-06-12 134757" src="https://github.com/user-attachments/assets/148da212-e5b8-4984-af56-cea19d154a3c" />
-<img width="1052" height="315" alt="Screenshot 2026-06-12 134726" src="https://github.com/user-attachments/assets/0832d567-9fdc-48c6-aa47-46a8ae4caf80" />
-<img width="1363" height="551" alt="Screenshot 2026-06-12 134710" src="https://github.com/user-attachments/assets/095e8f0e-9713-4338-ac7a-8bfa1dc9c367" />
-<img width="1357" height="516" alt="Screenshot 2026-06-12 134654" src="https://github.com/user-attachments/assets/22962c7c-efd7-46eb-84d2-5f5701510719" />
+<img width="1357" height="516" alt="Screenshot 2026-06-12 134654" src="https://github.com/user-attachments/assets/150ed0e5-0b03-4651-84a6-8e6e00473eca" />
+<img width="1363" height="551" alt="Screenshot 2026-06-12 134710" src="https://github.com/user-attachments/assets/1d23f242-dad9-4ff2-9e66-f1592cbc529d" />
+<img width="1052" height="315" alt="Screenshot 2026-06-12 134726" src="https://github.com/user-attachments/assets/09da3da0-1a11-4ae0-b6e5-30fba12005de" />
+<img width="1126" height="585" alt="Screenshot 2026-06-12 134757" src="https://github.com/user-attachments/assets/b4ad41ab-4b0e-433e-8b3c-247b0e5e66e4" />
+<img width="584" height="470" alt="Screenshot 2026-06-12 134914" src="https://github.com/user-attachments/assets/3f89ac96-edcd-4a4e-ab69-5cd495a20206" />
+
 # ATS Resume Scorer
 
 A web app that scores how well a resume matches a job description and returns actionable feedback. Built with FastAPI + Streamlit, using spaCy and Sentence Transformers for NLP and the Groq API for LLM-generated suggestions.
